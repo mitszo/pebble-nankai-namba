@@ -1,0 +1,31 @@
+{
+    "author": "mitszo",
+    "dependencies": {},
+    "keywords": [],
+    "name": "nankai-nanba",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "nankai-nanba",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "Trains[6]"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "457ab4fa-22d6-47d5-8ae1-b772055f5fd7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
